@@ -1,5 +1,9 @@
-Hi, I’m Roland Szalai 👋
-I’m interested in mostly Data Science and Machine Learning
-I’m currently studying Computer Science at ELTE IK 🌱
+21yrs old👋<br>
+Budapest, Hungary 🇭🇺 <br>
+ELTE IK Computer Science BSc 🧑‍🎓  <br>
+
+Interested in:
+- Data Science 📊 
+- Machine Learning 🤖 
 
 
