@@ -1,9 +1,5 @@
-21yrs old👋<br>
-Budapest, Hungary 🇭🇺 <br>
-ELTE IK Computer Science BSc 🧑‍🎓  <br>
+Studying Computer Science at ELTE IK💻 <br>
 
 Interested in:
 - Data Science 📊 
 - Machine Learning 🤖 
-
-
